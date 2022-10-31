@@ -1,0 +1,10 @@
+Data binding 
+share data inside the component 
+
+1.one way binding (data sharing only onne direction)
+
+    ts-component 
+    html-view
+
+    1.1 component to view (ts --> html)
+    
